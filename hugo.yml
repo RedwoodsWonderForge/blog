@@ -1,7 +1,9 @@
 baseURL: "https://blog.redwoodswonderforge.org"
 locale: en-us
 title: Redwoods Wonder Forge
-theme: PaperMod
+theme:
+  - hugo-notice
+  - PaperMod
 
 params:
   env: production

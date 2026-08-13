@@ -21,7 +21,7 @@ jobs:
           hugo-version: "0.159.0"
 
       - name: Build
-        run: hugo --theme=PaperMod
+        run: hugo --theme=hugo-notice,PaperMod
 
       - name: Inject CNAME
         run: echo blog.redwoodswonderforge.org > ./public/CNAME
