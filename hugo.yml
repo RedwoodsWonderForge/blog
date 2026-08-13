@@ -1,0 +1,20 @@
+baseURL: "https://blog.redwoodswonderforge.org"
+locale: en-us
+title: Redwoods Wonder Forge
+theme: PaperMod
+
+params:
+  description: Wonder Forge News and Updates
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+
+  homeInfoParams:
+    Title: Wonder Forge News and Updates
+    Content: Upcoming events, updates on classes, and more...
+
+  socialIcons:
+    - name: facebook
+      url: "https://www.facebook.com/RedwoodsWonderForge/"
+    - name: instagram
+      url: "https://www.instagram.com/redwoodswonderforge/"
