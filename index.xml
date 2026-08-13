@@ -13,8 +13,9 @@
       <link>https://blog.redwoodswonderforge.org/posts/short-links-outage/</link>
       <pubDate>Thu, 13 Aug 2026 09:32:35 -0700</pubDate>
       <guid>https://blog.redwoodswonderforge.org/posts/short-links-outage/</guid>
-      <description>&lt;p&gt;This morning, I woke up to a notification that our Shortlink service is down (when you open some of our short links that use rwf.sh in them). I thought maybe the server was having issues but after review I learned that the datacenter our server is hosted on is experiencing an outage. (Apparently they lost power? )&lt;/p&gt;
-&lt;p&gt;If you need access to things like registration or more, send us an &lt;a href=&#34;https://www.redwoodswonderforge.org/#contact&#34;&gt;email&lt;/a&gt; or DM us on &lt;a href=&#34;https://www.facebook.com/RedwoodsWonderForge&#34;&gt;Facebook&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;This morning, I woke up to a notification that our Shortlink service is down (when you open some of our short links that use &lt;code&gt;rwf.sh&lt;/code&gt; in them). I thought maybe the server was having issues but after review I learned that the datacenter our server is hosted on is experiencing an outage. (Apparently they lost power? )&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;If you need access to things like registration or more, send us an &lt;a href=&#34;https://www.redwoodswonderforge.org/#contact&#34;&gt;email&lt;/a&gt; or DM us on &lt;a href=&#34;https://www.facebook.com/RedwoodsWonderForge&#34;&gt;Facebook&lt;/a&gt;.&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
