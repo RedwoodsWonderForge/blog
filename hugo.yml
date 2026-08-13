@@ -4,6 +4,8 @@ title: Redwoods Wonder Forge
 theme: PaperMod
 
 params:
+  env: production
+
   description: Wonder Forge News and Updates
   ShowReadingTime: true
   ShowPostNavLinks: true
