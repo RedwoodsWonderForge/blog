@@ -2,8 +2,8 @@
 date: '2026-08-13T09:32:35-07:00'
 title: Short Links Outage
 author: Coach Juan
-cover:
-  image: assets/cover.png
+images:
+  - cover.png
 ---
 
 This morning, I woke up to a notification that our Shortlink service is down (when you open some of our short links that use rwf.sh in them). I thought maybe the server was having issues but after review I learned that the datacenter our server is hosted on is experiencing an outage. (Apparently they lost power? )
