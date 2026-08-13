@@ -24,4 +24,11 @@ I've been making a lot of changes to the website, mainly trying to make it simpl
 I'll update this once our services are back up. Additionally, the web services we use can be checked on our 
 [Status Page](https://stats.uptimerobot.com/bj2aXI2GT3).
 
-> Last Updated: 08/13/2026, 11:41 AM
+
+## Update 12:22 PM
+
+Did some more research and found out that the [datacenter having issues is this one located in Phoenix](https://status.phoenixnap.com/incidents/dnjp5pfv2mmh). Very interesting to find this out. I don't know how I feel that our stuff is hosted in a desert and is being brought down by cooling issues. Just doesn't sit right with me. I'm going to noodle on this - maybe bring it up with the [FTC team](https://25682.redwoodswonderforge.org/). This is their planet now and I'm curious what they think about us taxing the resources of remote desert infrastructure.
+
+For now, I'm paying attention to the thread and waiting for my server to come back up soon.
+
+> Last Updated: 08/13/2026, 12:22 PM
