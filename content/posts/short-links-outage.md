@@ -7,8 +7,8 @@ images:
   - cover.png
 ---
 
-{{< notice warning >}}
-Active Incident with `rwf.sh` Shortlinks
+{{< notice tip "Resolved" >}}
+Incident with `rwf.sh` Shortlinks resolved.
 {{< /notice >}}
 
 This morning, I woke up to a notification that our Shortlink service is down (when you open some of our short links that use `rwf.sh` in them). I thought maybe the server was having issues but after review I learned that the datacenter our server is hosted on is experiencing an outage. (Apparently they lost power? )
@@ -31,17 +31,21 @@ I'll update this once our services are back up. Additionally, the web services w
 
 ## Updates
 
-### Update 14:27 PM
+### Update 20:16
+
+I checked in earlier and saw that both the service I pay for and the data center they use posted the everything is back up and running. Going to stop updating this and call it good.
+
+### Update 14:27
 
 Looks like my server is back but officially, the data center incident isn't completely resolved. This might look like odd behavior where links sometimes work and sometimes don't. I'll update again soon.
 
-### Update 12:22 PM
+### Update 12:22
 
 Did some more research and found out that the [datacenter having issues is this one located in Phoenix](https://status.phoenixnap.com/incidents/dnjp5pfv2mmh). Very interesting to find this out. I don't know how I feel that our stuff is hosted in a desert and is being brought down by cooling issues. Just doesn't sit right with me. I'm going to noodle on this - maybe bring it up with the [FTC team](https://25682.redwoodswonderforge.org/). This is their planet now and I'm curious what they think about us taxing the resources of remote desert infrastructure.
 
 For now, I'm paying attention to the thread and waiting for my server to come back up soon.
 
-### Update 10:30 AM
+### Update 10:30
 
 I needed a place to document events and updates for RWF expecially once I migrated the website away from Ghost. Something that I can update easily but not have to worry about maintenance. This incident forced me to bring up _something_. I created this service and added this first post. I'll keep it updated as I learn things. 
 
